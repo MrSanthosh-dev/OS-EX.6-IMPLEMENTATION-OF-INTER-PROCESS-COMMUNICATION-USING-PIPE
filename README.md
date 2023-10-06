@@ -58,7 +58,8 @@ return 0;
 }
 
 ## OUTPUT:
+![image](https://github.com/MrSanthosh-dev/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/117916573/7f373ad7-6f5f-4e14-9a04-5cada6f4839c)
 
-![image](https://github.com/MrSanthosh-dev/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/117916573/547e4643-4eb7-4691-add7-4b592c94dc92)
+
 ## RESULT:
 Thus, IPC using pipes mechanisms is illustrated using c program successfully
